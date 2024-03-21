@@ -1,0 +1,15 @@
+
+r
+java:S3740*"/Provide the parametrized type for this generic.(ì©ä 8ğ»ª³å1J$873065aa-4db8-4236-8146-1cbbdbe18f50
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ä¤õüÿÿÿÿ8ó»ª³å1J$9b7d52b4-0fe3-42a0-ae14-4818d1bdcc19
+~
+java:S1854"6Remove this useless assignment to local variable "js".(úÔì…úÿÿÿÿ8ı»ª³å1J$f15e626f-173b-47a1-aab4-b11c4d65cf09
+ƒ
+java:S1854 ";Remove this useless assignment to local variable "headers".(¶…šÑúÿÿÿÿ8ı»ª³å1J$264608e1-096a-41ce-aff2-6b6fea334e02
+o
+java:S1481"'Remove this unused "js" local variable.(úÔì…úÿÿÿÿ8‘¼ª³å1J$b07c46f2-e390-4475-afbb-933d664e3110
+r	java:S106"+Replace this use of System.err by a logger.(Çá­şÿÿÿÿ8™¼ª³å1J$ce569891-813f-4dae-a0b3-fe273312a7ca
+t
+java:S1481 ",Remove this unused "headers" local variable.(¶…šÑúÿÿÿÿ8›¼ª³å1J$f987bab3-b64f-45e1-8468-cabb112f3486
+~	java:S125!"<This block of commented-out lines of code should be removed.(İè¢»8¼ª³å1J$30f9b123-6dbd-47e4-b140-e6320354887a
+r	java:S106,"+Replace this use of System.err by a logger.(¬‹²„úÿÿÿÿ8Ÿ¼ª³å1J$1f45550a-02db-47cd-b48c-ce79858bcd5c
