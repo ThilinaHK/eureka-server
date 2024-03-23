@@ -1,7 +1,7 @@
 
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ΤÒ8υΛ’με1J$04174f05-d639-4611-8a89-309e893420f6
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘ÿψÿÿÿÿ8Μ’με1J$b2016194-fc1b-4dd1-9bea-383dda7e82f2
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ΤÒ8ΫΜ¤ζ1J$d9a4a94f-5f8f-4176-a550-86067ac9ee93
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‘ÿψÿÿÿÿ8λΜ¤ζ1J$30a6f28c-4afc-4ebc-9821-8c41104709e4
 `
-java:S2119 "Save and re-use this "Random".(¬¦°-8›Μ’με1J$c756edf1-382b-4b53-b9ab-34f749f553d6
+java:S2119"Save and re-use this "Random".(¬¦°-8ρΜ¤ζ1J$a84c6c78-a59d-45b4-bf15-fe8946e98685
 “
-java:S1128"KRemove this unused import 'org.springframework.context.annotation.Profile'.(Ψέ¥έψÿÿÿÿ8Μ’με1J$813d7b6b-cdbb-45a6-8e16-95d7acc171f1
+java:S1128"KRemove this unused import 'org.springframework.context.annotation.Profile'.(Ψέ¥έψÿÿÿÿ8ÿ¬Ν¤ζ1J$d5d58cc4-3e36-47ce-83ac-2cd10f418049
