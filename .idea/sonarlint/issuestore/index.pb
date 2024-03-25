@@ -69,3 +69,5 @@ c
 Sconfig-server/src/test/java/com/conf/configserver/ConfigServerApplicationTests.java,7\9\794b48f635d259a344b64f0c26da7bf8018e10fa
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+B
+Dockers/Dockerfile,8\c\8c2c612321c3a54335b36ef500e52aeb7d762d9e
